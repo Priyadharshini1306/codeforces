@@ -6,15 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 6 |
+| 3 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [combinatorics](#combinatorics) (1)
-- [constructive algorithms](#constructive-algorithms) (1)
-- [greedy](#greedy) (1)
+- [constructive algorithms](#constructive-algorithms) (2)
+- [greedy](#greedy) (2)
 - [math](#math) (2)
 - [sortings](#sortings) (1)
 - [two pointers](#two-pointers) (1)
@@ -31,12 +31,14 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1831B | [Array merging](https://codeforces.com/contest/1831/problem/B) | 1000 | [Java 21](https://github.com/Priyadharshini1306/codeforces/blob/HEAD/1831/B%20-%20Array%20merging/solution.java) |
 | 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [Java 21](https://github.com/Priyadharshini1306/codeforces/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.java) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1831B | [Array merging](https://codeforces.com/contest/1831/problem/B) | 1000 | [Java 21](https://github.com/Priyadharshini1306/codeforces/blob/HEAD/1831/B%20-%20Array%20merging/solution.java) |
 | 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [Java 21](https://github.com/Priyadharshini1306/codeforces/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.java) |
 
 ### math
