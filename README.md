@@ -6,26 +6,40 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 6 |
+| 5 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [combinatorics](#combinatorics) (1)
+- [brute force](#brute-force) (1)
+- [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (2)
+- [data structures](#data-structures) (1)
+- [dfs and similar](#dfs-and-similar) (1)
+- [dp](#dp) (1)
+- [graphs](#graphs) (1)
 - [greedy](#greedy) (2)
 - [math](#math) (2)
 - [sortings](#sortings) (1)
+- [strings](#strings) (1)
+- [trees](#trees) (1)
 - [two pointers](#two-pointers) (1)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [Java 21](https://github.com/Priyadharshini1306/codeforces/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.java) |
 
 ### combinatorics
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [Java 21](https://github.com/Priyadharshini1306/codeforces/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.java) |
+| 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [Java 21](https://github.com/Priyadharshini1306/codeforces/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.java) |
 
 ### constructive algorithms
 
@@ -33,6 +47,30 @@
 |---|---------|------------|----------|
 | 1831B | [Array merging](https://codeforces.com/contest/1831/problem/B) | 1000 | [Java 21](https://github.com/Priyadharshini1306/codeforces/blob/HEAD/1831/B%20-%20Array%20merging/solution.java) |
 | 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [Java 21](https://github.com/Priyadharshini1306/codeforces/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.java) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [Java 21](https://github.com/Priyadharshini1306/codeforces/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.java) |
+
+### dfs and similar
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 580C | [Kefa and Park](https://codeforces.com/contest/580/problem/C) | 1500 | [Java 21](https://github.com/Priyadharshini1306/codeforces/blob/HEAD/580/C%20-%20Kefa%20and%20Park/solution.java) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [Java 21](https://github.com/Priyadharshini1306/codeforces/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.java) |
+
+### graphs
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 580C | [Kefa and Park](https://codeforces.com/contest/580/problem/C) | 1500 | [Java 21](https://github.com/Priyadharshini1306/codeforces/blob/HEAD/580/C%20-%20Kefa%20and%20Park/solution.java) |
 
 ### greedy
 
@@ -53,6 +91,18 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [Java 21](https://github.com/Priyadharshini1306/codeforces/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.java) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [Java 21](https://github.com/Priyadharshini1306/codeforces/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.java) |
+
+### trees
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 580C | [Kefa and Park](https://codeforces.com/contest/580/problem/C) | 1500 | [Java 21](https://github.com/Priyadharshini1306/codeforces/blob/HEAD/580/C%20-%20Kefa%20and%20Park/solution.java) |
 
 ### two pointers
 
