@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 13 |
+| 6 | 13 |
 
 ---
 
@@ -16,9 +16,9 @@
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [data structures](#data-structures) (1)
-- [dfs and similar](#dfs-and-similar) (1)
+- [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (1)
-- [graphs](#graphs) (1)
+- [graphs](#graphs) (2)
 - [greedy](#greedy) (2)
 - [math](#math) (2)
 - [sortings](#sortings) (1)
@@ -59,6 +59,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 580C | [Kefa and Park](https://codeforces.com/contest/580/problem/C) | 1500 | [Java 21](https://github.com/Priyadharshini1306/codeforces/blob/HEAD/580/C%20-%20Kefa%20and%20Park/solution.java) |
+| 1093D | [Beautiful Graph](https://codeforces.com/contest/1093/problem/D) | 1700 | [Java 21](https://github.com/Priyadharshini1306/codeforces/blob/HEAD/1093/D%20-%20Beautiful%20Graph/solution.java) |
 
 ### dp
 
@@ -71,6 +72,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 580C | [Kefa and Park](https://codeforces.com/contest/580/problem/C) | 1500 | [Java 21](https://github.com/Priyadharshini1306/codeforces/blob/HEAD/580/C%20-%20Kefa%20and%20Park/solution.java) |
+| 1093D | [Beautiful Graph](https://codeforces.com/contest/1093/problem/D) | 1700 | [Java 21](https://github.com/Priyadharshini1306/codeforces/blob/HEAD/1093/D%20-%20Beautiful%20Graph/solution.java) |
 
 ### greedy
 
